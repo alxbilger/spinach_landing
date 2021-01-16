@@ -102,7 +102,7 @@
 			prevEl: '.swiper-button-prev',
 		},
         spaceBetween: 30,
-        slidesPerView: 5,
+        slidesPerView: 4,
 		breakpoints: {
             // when window is <= 380px
             380: {
